@@ -27,12 +27,6 @@ Hi! I'm **Anusree Anilkumar**. I'm a Full Stack Web Developer
 [![Email](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar113anusree@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-339933?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919699973230)
 
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact)](https://github.com/Anusree6154s)
-
-
-
 
 
 <!--

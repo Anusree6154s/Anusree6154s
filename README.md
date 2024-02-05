@@ -1,4 +1,4 @@
-#### Hi! I'm **Anusree Anilkumar**. I'm a Full Stack Web Developer
+Hi! I'm **Anusree Anilkumar**. I'm a Full Stack Web Developer
 
 <br/>
 

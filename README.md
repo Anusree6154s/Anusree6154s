@@ -2,11 +2,6 @@ Hi! I'm **Anusree Anilkumar**. I'm a Full Stack Web Developer
 
 <br/>
 
-- 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning Advanced JavaScript
-
-<br/>
-
 #### Skills
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +21,10 @@ Hi! I'm **Anusree Anilkumar**. I'm a Full Stack Web Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusree-anilkumar-6154s/)
 [![Email](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar113anusree@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-339933?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919699973230)
+
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&bg_color=EEEEEE&layout=compact)](https://github.com/Anusree6154s)
 
 
 

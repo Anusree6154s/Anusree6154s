@@ -1,19 +1,10 @@
 <h3 align="center">👋 Hi! I'm Anusree Anilkumar</h3> 
 <p align="center">I'm a Full Stack Web Developer</p>
 
- <br>
- 
-<p align="center">
- <a href='https://www.linkedin.com/in/anusree-anilkumar-6154s/'><img height='30px' width='30px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
-  <a href='mailto:anilkumar113anusree@gmail.com'><img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
-  <a href='[https://www.linkedin.com/in/anusree-anilkumar-6154s/](https://wa.me/919699973230)'><img height='30px' width='30px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
- </p>
- 
 <br>
-<img align='right' alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" />
-<a align='right' href="https://leetcode.com/u/anilkumaranusree113/">
- <img alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" width='100px' />
- </a>
+
+
+<img align='right' alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" width='350px'/>
 <h3 align="left">Projects</h3>
 <p align="left">
  Ebazar - Ecommerce Website 
@@ -31,8 +22,12 @@
 
 <br/>
 
-<h3 align="center">Skills</h3>
-<p align="center">
+ <a href="https://leetcode.com/u/anilkumaranusree113/">
+ <img align='right' alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" width='350px' />
+ </a>
+ 
+<h3 align="left">Skills</h3>
+<p align="left">
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg'/>
@@ -43,6 +38,9 @@
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg'/>
+ 
+</p>
+<p>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg'/>
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2oHrMBcSHjVFHo9yeayjMMd_Ucce9UxRXA&s'/>
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKWSJOV6qmaYNnhXgEUoyKcXEbQ8tyCbfQA&s'/>
@@ -56,11 +54,10 @@
 </p>
 <br>
 
+<h3 align="left">Contact</h3>
+<p align="left">
+ <a href='https://www.linkedin.com/in/anusree-anilkumar-6154s/'><img height='30px' width='30px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
+  <a href='mailto:anilkumar113anusree@gmail.com'><img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
+  <a href='[https://www.linkedin.com/in/anusree-anilkumar-6154s/](https://wa.me/919699973230)'><img height='30px' width='30px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
+ </p>
 
-<div align="center" >
- <p><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" /></p>
- <p><a href="https://leetcode.com/u/anilkumaranusree113/">
- <img alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" width='100px' />
- </a></p>
-</div>
-  

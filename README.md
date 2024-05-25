@@ -1,5 +1,4 @@
-
-<h3 align="center">👋 Hi! I'm Anusree Anilkumar</h3>
+<h3 align="center">👋 Hi! I'm Anusree Anilkumar</h3> 
 <p align="center">I'm a Full Stack Web Developer</p>
 
  <br>
@@ -11,18 +10,21 @@
  </p>
  
 <br>
-
-<h3 align="center">Projects</h3>
-<p align="center">
+<img align='right' alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" />
+<a align='right' href="https://leetcode.com/u/anilkumaranusree113/">
+ <img alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" width='100px' />
+ </a>
+<h3 align="left">Projects</h3>
+<p align="left">
  Ebazar - Ecommerce Website 
  <a  href='https://github.com/Anusree6154s/mern_stack_full_tutorial-coder_dost/tree/main/3.%20React-Redux%20-%20Ecommerce%20Project%20-%20Ebazar'>code</a>  
  <a  href='https://ebazar-ecommerce-website.onrender.com/'>web</a>
 </p>
-<p align="center">Netflix Clone
+<p align="left">Netflix Clone
  <a  href='https://github.com/Anusree6154s/MERN_stack-practise_tutorials/tree/main/Intro%20to%20JS%20and%20Exercises/projects/create-netflix/exercise'>code</a> 
  <a height='10px' href='https://netflix-clone-2fwt.onrender.com'>web</a>
 </p>
-<p align="center">Weather App
+<p align="left">Weather App
 <a  href='https://github.com/Anusree6154s/full_stack_web_development-udemy_course/tree/main/Backend/05.7%20Weather%20App%20-%20Capstone%20Project'>code </a> 
  <a height='10px' href='https://weather-application-a80q.onrender.com/'>web</a>
 </p>
@@ -54,16 +56,11 @@
 </p>
 <br>
 
-<!--
-<--Technical Skills ,Passport.js Bcrypt, JWT, Material UI, MERN Stack
-
-Frameworks  Redux.js, Node.js, Express.js-->
-
 
 <div align="center" >
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" />
- <a href="https://leetcode.com/u/anilkumaranusree113/">
- <img alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/anilkumaranusree113?theme=light&font=Montserrat&ext=contest" height='165px' />
- </a>
+ <p><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" /></p>
+ <p><a href="https://leetcode.com/u/anilkumaranusree113/">
+ <img alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" width='100px' />
+ </a></p>
 </div>
   

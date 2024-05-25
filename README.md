@@ -45,14 +45,12 @@
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2oHrMBcSHjVFHo9yeayjMMd_Ucce9UxRXA&s'/>
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIKWSJOV6qmaYNnhXgEUoyKcXEbQ8tyCbfQA&s'/>
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBYLanSEoHMu9e8zUct9hPvrYv2uUfmkK43-0NC_Y8A&s'/>
- <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbCZpBFldJy06cYdb68jNtfKMfUFXyOFg9EXhzsinWZmxOS2lv'/>
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzM1u_TvVr8SI2Ovc5qCemVDUhd3-SfJwDn1eqPxTKA&s'/>
  <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxu8qJ8aByxSP7g918Ay8-7kOWqtIU7rHow&s'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg'/>
- <img height='30px' width='30px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnsUNrfdzIrgVznjXYll9RyPGWcH2vLV1NGaSZDokwNA&s'/>
 </p>
 <br>
 

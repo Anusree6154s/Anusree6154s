@@ -23,7 +23,7 @@
 <br/>
 
  <a href="https://leetcode.com/u/anilkumaranusree113/">
- <img align='right' alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" width='350px' />
+ <img align='right' alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/anilkumaranusree113?theme=light&font=Montserrat&ext=contest" width='350px' />
  </a>
  
 <h3 align="left">Skills</h3>

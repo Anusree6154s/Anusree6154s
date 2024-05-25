@@ -1,70 +1,52 @@
-Hi! I'm **Anusree Anilkumar**. I'm a Full Stack Web Developer
 
-<br/>
-| |
----
-| #### Skills |
+<h3 align="center">👋 Hi! I'm Anusree Anilkumar</h3>
+<p align="center">I'm a Full Stack Web Developer</p>
 
+ <br>
  
- |![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-#### Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusree-anilkumar-6154s/)
-[![Email](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar113anusree@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-339933?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919699973230)
-
-<br/>
-| Skills |
-|--------|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-| Connect |
-|--|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusree-anilkumar-6154s/) [![Email](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar113anusree@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-339933?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919699973230) |
-
-
-| Skills | Connect|
-|--------|------|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusree-anilkumar-6154s/) [![Email](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilkumar113anusree@gmail.com)[![WhatsApp](https://img.shields.io/badge/WhatsApp-339933?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919699973230) |
-
-
 <p align="center">
- <img alt="Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" height="200" width="300"/>
- <a href="https://leetcode.com/u/anilkumaranusree113/">
- <img alt="LeetCode Stats" align="center" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Montserrat&ext=contest" height="200" width="300" />
- </a>
+ <a href='https://www.linkedin.com/in/anusree-anilkumar-6154s/'><img height='20px' width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
+  <a href='mailto:anilkumar113anusree@gmail.com'><img height='20px' width='20px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
+  <a href='[https://www.linkedin.com/in/anusree-anilkumar-6154s/](https://wa.me/919699973230)'><img height='20px' width='20px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
+ </p>
+ 
+<br>
+
+<h3 align="center">Projects</h3>
+<p align="center">Ebazar - Ecommerce Website</p>
+<p align="center">Netflix Clone</p>
+<p align="center">Weather App</p>
+
+<br/>
+
+<h3 align="center">Skills</h3>
+<p align="center">
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Light.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg'/>
+ <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg'/>
 </p>
-  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+
 <!--
-**Anusree6154s/Anusree6154s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--Technical Skills HTML5, CSS3, JavaScript, MongoDB, REST APIs, HTTP, Tailwind.css, Passport.jsBcrypt, JWT, Material UI, MERN Stack
+Developer Tools Git, npm, Bootstrap, jQuery, Postman, Visual Studio
+Frameworks React.js, Redux.js, Node.js, Express.js-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center" >
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" height="200px" width="300px"/>
+ <a href="https://leetcode.com/u/anilkumaranusree113/">
+ <img alt="LeetCode Stats"  src="https://leetcard.anilkumaranusree113.cool/anilkumaranusree113?theme=light&font=Montserrat&ext=contest" height="200px" width="300px" />
+ </a>
+</div>
+
+  

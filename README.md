@@ -33,7 +33,7 @@
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg'/>
  <img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg'/>
 </p>
-
+<br>
 
 <!--
 <--Technical Skills HTML5, CSS3, JavaScript, MongoDB, REST APIs, HTTP, Tailwind.css, Passport.jsBcrypt, JWT, Material UI, MERN Stack
@@ -41,12 +41,10 @@ Developer Tools Git, npm, Bootstrap, jQuery, Postman, Visual Studio
 Frameworks React.js, Redux.js, Node.js, Express.js-->
 
 
-
 <div align="center" >
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" height="200px" width="300px"/>
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" />
  <a href="https://leetcode.com/u/anilkumaranusree113/">
- <img alt="LeetCode Stats"  src="https://leetcard.anilkumaranusree113.cool/anilkumaranusree113?theme=light&font=Montserrat&ext=contest" height="200px" width="300px" />
+ <img alt="LeetCode Stats"  src="https://leetcard.jacoblin.cool/anilkumaranusree113?theme=light&font=Montserrat&ext=contest" height='165px' />
  </a>
 </div>
-
   

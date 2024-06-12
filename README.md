@@ -6,18 +6,51 @@
 
 <img align='right' alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" width='350px'/>
 <h3 align="left">Projects</h3>
-<p align="left">
- Ebazar - Ecommerce Website 
+<div align="left">
+ <ul>
+  <li>
+   Personal
+ <ol>
+  <li>Ebazar - Ecommerce Website 
  <a  href='https://github.com/Anusree6154s/mern_stack_full_tutorial-coder_dost/tree/main/3.%20React-Redux%20-%20Ecommerce%20Project%20-%20Ebazar'>code</a>  
  <a  href='https://ebazar-ecommerce-website.onrender.com/'>web</a>
-</p>
-<p align="left">Netflix Clone
+  </li>
+    <li>
+   Netflix Clone
  <a  href='https://github.com/Anusree6154s/MERN_stack-practise_tutorials/tree/main/Intro%20to%20JS%20and%20Exercises/projects/create-netflix/exercise'>code</a> 
  <a height='10px' href='https://netflix-clone-2fwt.onrender.com'>web</a>
-</p>
-<p align="left">Weather App
+  </li>
+ </ol>
+  </li>
+  <li>
+    Udemy Course
+ <ol>
+
+  <li>
+   Weather App
 <a  href='https://github.com/Anusree6154s/full_stack_web_development-udemy_course/tree/main/Backend/05.7%20Weather%20App%20-%20Capstone%20Project'>code </a> 
  <a height='10px' href='https://weather-application-a80q.onrender.com/'>web</a>
+  </li>
+ </ol>
+  </li>
+  <li>
+   Crio Course
+   <ol>
+    <li>
+     QTrip Dynamic
+     <a  href='https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1714374375760/anilkumaranusree113-ME_QTRIPDYNAMIC'>code </a> 
+ <a height='10px' href='https://qtrip-dynamic-red-kappa.vercel.app/'>web</a>
+    </li>
+   </ol>
+  </li>
+ </ul>
+ 
+
+ 
+</div>
+<p align="left">
+</p>
+<p align="left">
 </p>
 
 <br/>

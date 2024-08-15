@@ -1,9 +1,53 @@
-<h3 align="center">👋 Hi! I'm Anusree Anilkumar</h3> 
+<div align="center">
+<h3>👋 Hi! I'm Anusree Anilkumar</h3>
+ <samp>I'm a <strong>Full Stack Web Developer</strong>, with a strong focus of <strong>MERN stack</strong>. <br>
+  I have a strong foundation in both frontend and backend technologies <br> including React, Redux, Express, MongoDB and Jest. 
+  I am inquisitve <br> about emerging tech tools and love contibuting to innovative projects.</samp>
+
+ 
+ <br>
+<br>
+ <h3>Tool Stack</h3>
+
+![REST](https://img.shields.io/badge/REST-f0f0f0?logo=rest&logoColor=default&style=flat-square)
+![HTTP](https://img.shields.io/badge/HTTP-f0f0f0?logo=http&logoColor=default&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-f0f0f0?logo=html5&logoColor=default&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-f0f0f0?logo=css3&logoColor=blue&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-f0f0f0?logo=bootstrap&logoColor=default&style=flat-square)
+![Git](https://img.shields.io/badge/Git-f0f0f0?logo=git&logoColor=default&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0f0f0?logo=javascript&logoColor=yellow&style=flat-square)
+![React](https://img.shields.io/badge/React-f0f0f0?logo=react&logoColor=blue&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-f0f0f0?logo=linux&logoColor=black&style=flat-square) <br>
+![Redux](https://img.shields.io/badge/Redux-f0f0f0?logo=redux&logoColor=purple&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-f0f0f0?logo=node.js&logoColor=default&style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-f0f0f0?logo=express&logoColor=black&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-f0f0f0?logo=mongodb&logoColor=default&style=flat-square)
+![Mongoose](https://img.shields.io/badge/Mongoose-f0f0f0?logo=mongoose&logoColor=red&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-f0f0f0?logo=postman&logoColor=default&style=flat-square)
+
+
+
+
+<br>
+<h3>Projects</h3>
+
+| Name | Description | Tech Stack | Website |
+|------|-------------|------------|---------|
+| <samp>QKart</samp> | E-commerce application - frontend and backend| Node.js, Express.js, MongoDB, React, Jest (Testing)       | view    |
+
+<br>
+<h3>Contact Me</h3>
+ <a href='https://www.linkedin.com/in/anusree-anilkumar-6154s/'><img  width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
+  &nbsp;
+  <a href='mailto:anilkumar113anusree@gmail.com'><img width='20px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
+   &nbsp;
+  <a href='[https://www.linkedin.com/in/anusree-anilkumar-6154s/](https://wa.me/919699973230)'><img width='20px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
+</div>
+
+<!-- <h3 align="center">👋 Hi! I'm Anusree Anilkumar</h3> 
 <p align="center">I'm a Full Stack Web Developer</p>
 
 <br>
-
-
 <img align='right' alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact" width='350px'/>
 <h3 align="left">Projects</h3>
 <div align="left">
@@ -44,14 +88,8 @@
    </ol>
   </li>
  </ul>
- 
 
- 
 </div>
-<p align="left">
-</p>
-<p align="left">
-</p>
 
 <br/>
 
@@ -92,5 +130,6 @@
  <a href='https://www.linkedin.com/in/anusree-anilkumar-6154s/'><img height='30px' width='30px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
   <a href='mailto:anilkumar113anusree@gmail.com'><img height='30px' width='30px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
   <a href='[https://www.linkedin.com/in/anusree-anilkumar-6154s/](https://wa.me/919699973230)'><img height='30px' width='30px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
- </p>
+ </p> -->
+
 

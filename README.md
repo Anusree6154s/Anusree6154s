@@ -7,7 +7,7 @@
  
  <br>
 <br>
- <h3>Tool Stack</h3>
+ <h3>Tech Stack</h3>
 
 ![REST](https://img.shields.io/badge/REST-f0f0f0?logo=rest&logoColor=default&style=flat-square)
 ![HTTP](https://img.shields.io/badge/HTTP-f0f0f0?logo=http&logoColor=default&style=flat-square)

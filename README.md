@@ -1,7 +1,7 @@
 <div align="center">
 <h3>👋 Hi! I'm Anusree Anilkumar</h3>
- <samp>I'm a <strong>Full Stack Web Developer</strong>, with a strong focus of <strong>MERN stack</strong>. <br>
-  I have a strong foundation in both frontend and backend technologies <br> including React, Redux, Express, MongoDB and Jest. 
+ <samp>I'm a <strong>Full Stack Developer</strong>, with a strong focus on <strong>MERN stack</strong>. <br>
+  I have a solid foundation in both frontend and backend technologies <br> including React, Redux, Express, MongoDB and Jest. 
   I am inquisitve <br> about emerging tech tools and love contibuting to innovative projects.</samp>
 
  

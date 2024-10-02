@@ -31,9 +31,13 @@
 <br>
 <h3>Projects</h3>
 
-| Name | Description | Tech Stack | Website |
-|------|-------------|------------|---------|
-| <samp>QKart</samp> | E-commerce application - frontend and backend| Node.js, Express.js, MongoDB, React, Jest (Testing)       | view    |
+| Name | Description | Tech Stack | Website | Code |
+|------|-------------|------------|---------|------|
+| <samp>QKart</samp> | E-commerce application - Backend | Node.js, Express.js, MongoDB, Jest | <a href="https://66bc45a6a3de7800084c5338--qkart-node-6154.netlify.app/">view</a> | <a href="https://github.com/Anusree6154s/qkart-backend-2">code</a> |
+| <samp>QKart</samp> | E-commerce application - Frontend | React.js, Redux.js, Tailwind CSS, Axios | <a href="https://anilkumaranusree113-me-qkart-frontend-v2-1v7k15h9c.vercel.app/">view</a> | <a href="https://gitlab.crio.do/COHORT_ME_QKART_FRONTEND_V2_ENROLL_1716895719413/anilkumaranusree113-ME_QKART_FRONTEND_V2">code</a> |
+| <samp>EBazaar</samp> | E-commerce application - Full Stack | Node.js, Express.js, MongoDB, React.js | <a href="https://ebazar-ecommerce-website.onrender.com">view</a> | <a href="https://github.com/Anusree6154s/mern_stack-coder_dost/tree/main/3.%20React-Redux%20-%20Ecommerce%20Project%20-%20Ebazar">code</a> |
+| <samp>QTify</samp> | Song-browsing application - Frontend | React.js, Material UI, Swiper.js | <a href="https://qtify-ten-gamma.vercel.app/">view</a> | <a href="https://github.com/Anusree6154s/qtify-frontend">code</a> |
+| <samp>XFlix</samp> | Video sharing platform - Backend | Node.js, Express.js, MongoDB | <a href="https://xflix-backend-vmhx.onrender.com/v1/videos">view</a> | <a href="https://github.com/Anusree6154s/xflix-backend">code</a> |
 
 <br>
 <h3>Contact Me</h3>

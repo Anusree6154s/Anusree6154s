@@ -41,7 +41,7 @@
 | <samp>QKart</samp> | E-commerce application - Frontend | React.js, Redux.js, Tailwind CSS, Axios | <a href="https://anilkumaranusree113-me-qkart-frontend-v2-1v7k15h9c.vercel.app/" target='_blank' rel="noreferrer">view</a> | <a href="https://gitlab.crio.do/COHORT_ME_QKART_FRONTEND_V2_ENROLL_1716895719413/anilkumaranusree113-ME_QKART_FRONTEND_V2" target='_blank' rel="noreferrer">code</a> |
 | <samp>EBazaar</samp> | E-commerce application - Full Stack | Node.js, Express.js, MongoDB, React.js | <a href="https://ebazar-ecommerce-website.onrender.com" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/mern_stack-coder_dost/tree/main/3.%20React-Redux%20-%20Ecommerce%20Project%20-%20Ebazar" target='_blank' rel="noreferrer">code</a> |
 | <samp>QTify</samp> | Song-browsing application - Frontend | React.js, Material UI, Swiper.js | <a href="https://qtify-ten-gamma.vercel.app/" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/qtify-frontend" target='_blank' rel="noreferrer">code</a> |
-| <samp>XFlix</samp> | Video sharing platform - Backend | Node.js, Express.js, MongoDB | <a href="https://xflix-backend-vmhx.onrender.com/v1/videos" target='_blank' rel="noreferrer" >view</a> | <a href="https://github.com/Anusree6154s/xflix-backend" target='_blank' rel="noreferrer" >code</a> |
+| <samp>XFlix</samp> | Video sharing platform - Backend | Node.js, Express.js, MongoDB | <a href="https://www.postman.com/lunar-module-geoscientist-23775876/xflix-backend-api/collection/6wogu2r/xflix?action=share&creator=33572999" target='_blank' rel="noreferrer" >view</a> | <a href="https://github.com/Anusree6154s/xflix-backend" target='_blank' rel="noreferrer" >code</a> |
 
 <br>
 <h3>Contact Me</h3>

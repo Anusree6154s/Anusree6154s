@@ -41,11 +41,11 @@
 
 | Name | Description | Tech Stack | Website | Code |
 |------|-------------|------------|---------|------|
-| <samp>EBazaar</samp> | E-commerce application - Full Stack | Node.js, Express.js, MongoDB, React.js | <a href="https://ebazar-a2pa.onrender.com" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/ebazar" target='_blank' rel="noreferrer">code</a> |
-| <samp>QKart</samp> | E-commerce application - Backend | Node.js, Express.js, MongoDB, Jest | <a href="https://qkart-backend-2-jlz8.onrender.com/v1/swagger/docs" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/qkart-backend-2" target='_blank' rel="noreferrer">code</a> |
+| <samp>EBazaar</samp> | E-commerce application - Full Stack | MERN, MUI, Redux Toolkit, Stripe, Passport.js, Jest | <a href="https://ebazar-a2pa.onrender.com" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/ebazar" target='_blank' rel="noreferrer">code</a> |
+| <samp>XFlix</samp> | Video sharing platform - Full Stack | Node.js, Express.js, MongoDB, React.js | <a href="https://xflix-frontend-hazel.vercel.app/" target='_blank' rel="noreferrer" >view</a> | <a href="https://github.com/Anusree6154s/xflix-frontend" target='_blank' rel="noreferrer" >code</a> |
+| <samp>QKart</samp> | E-commerce application - Backend | Node.js, Express.js, MongoDB, Passport.js, Jest | <a href="https://qkart-backend-2-jlz8.onrender.com/v1/swagger/docs" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/qkart-backend-2" target='_blank' rel="noreferrer">code</a> |
 | <samp>QKart</samp> | E-commerce application - Frontend | React.js, Redux.js, Tailwind CSS, Axios | <a href="https://anilkumaranusree113-me-qkart-frontend-v2-1v7k15h9c.vercel.app/" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/qkart-backend" target='_blank' rel="noreferrer">code</a> |
 | <samp>QTify</samp> | Song-browsing application - Frontend | React.js, Material UI, Swiper.js | <a href="https://qtify-ten-gamma.vercel.app/" target='_blank' rel="noreferrer">view</a> | <a href="https://github.com/Anusree6154s/qtify-frontend" target='_blank' rel="noreferrer">code</a> |
-| <samp>XFlix</samp> | Video sharing platform - Backend | Node.js, Express.js, MongoDB | <a href="https://www.postman.com/lunar-module-geoscientist-23775876/xflix-backend-api/collection/6wogu2r/xflix?action=share&creator=33572999" target='_blank' rel="noreferrer" >view</a> | <a href="https://github.com/Anusree6154s/xflix-backend" target='_blank' rel="noreferrer" >code</a> |
 
 <br>
 <h3>Contact Me</h3>

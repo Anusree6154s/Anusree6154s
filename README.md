@@ -90,8 +90,8 @@
 <br>
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Anusree6154s&hide=stars&show_icons=true' height='180'/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact' height='180'/>
+<img src='https://github-readme-stats.vercel.app/api?username=Anusree6154s&hide=stars&show_icons=true' height='150'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact' height='150'/>
 
 
 <br>

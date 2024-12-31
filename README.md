@@ -97,11 +97,11 @@
 <br>
 <br>
 <h3>Contact Me</h3>
- <a href='https://www.linkedin.com/in/anusree-anilkumar-6154s/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
+ <a href='https://www.linkedin.com/in/anusreeanilkumar1/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
   &nbsp;
   <a href='mailto:anilkumar113anusree@gmail.com' target='_blank' rel="noreferrer"><img width='20px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
    &nbsp;
-  <a href='[https://www.linkedin.com/in/anusreeanilkumar1/](https://wa.me/919699973230)' target='_blank' rel="noreferrer"><img width='20px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
+  <a href='https://wa.me/919699973230' target='_blank' rel="noreferrer"><img width='20px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
   <br>
 <img src='https://github.com/user-attachments/assets/da07fbfe-0041-46f1-a2a3-10549996e9a2' width='150' align='center'/>
 </div>

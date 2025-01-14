@@ -166,7 +166,7 @@
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/qkart-backend-2"
+              href="https://github.com/Anusree6154s/qkart-backend"
               target="_blank"
               rel="noreferrer"
               >code</a
@@ -179,7 +179,7 @@
           <td>React.js, Redux.js, Tailwind CSS, Axios</td>
           <td>
             <a
-              href="https://anilkumaranusree113-me-qkart-frontend-v2-1v7k15h9c.vercel.app/"
+              href="https://qkart-frontend-01.vercel.app/"
               target="_blank"
               rel="noreferrer"
               >view</a
@@ -187,7 +187,7 @@
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/qkart-backend"
+              href="https://github.com/Anusree6154s/qkart-frontend"
               target="_blank"
               rel="noreferrer"
               >code</a

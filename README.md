@@ -83,6 +83,7 @@
 
  <table>
       <thead>
+        <th>Name</th>
         <th>Description</th>
         <th>Tech Stack</th>
         <th>Website</th>

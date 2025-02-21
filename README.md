@@ -96,7 +96,7 @@
           <td>MERN, MUI, Redux Toolkit, Stripe, Passport.js, Jest</td>
           <td>
             <a
-              href="https://ebazar-a2pa.onrender.com"
+              href="https://ebazar-fullstack.vercel.app/home"
               target="_blank"
               rel="noreferrer"
               >view</a
@@ -104,7 +104,7 @@
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/ebazar"
+              href="https://github.com/Anusree6154s/ebazar-vercel"
               target="_blank"
               rel="noreferrer"
               >code</a

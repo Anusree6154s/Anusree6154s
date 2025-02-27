@@ -228,11 +228,17 @@
 <br>
 <h3>Contact Me</h3>
  <a href='https://www.linkedin.com/in/anusreeanilkumar1/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
+
   &nbsp;
   <a href='mailto:anilkumar113anusree@gmail.com' target='_blank' rel="noreferrer"><img width='20px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
    &nbsp;
   <a href='https://wa.me/919699973230' target='_blank' rel="noreferrer"><img width='20px' src='https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png'/> </a>
   <br>
-<!--<img src='https://github.com/user-attachments/assets/da07fbfe-0041-46f1-a2a3-10549996e9a2' width='150' align='center'/>-->
+<img src='https://github.com/user-attachments/assets/da07fbfe-0041-46f1-a2a3-10549996e9a2' width='150' align='center'/>
 </div>
 
+<br/>
+<br/>
+ <p align='center'>
+ <span> <strong>PS:</strong> All my repositories are open to contributions✨</span>
+ </p>

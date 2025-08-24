@@ -1,8 +1,21 @@
 <div align="center">
 <h3>👋 Hi! I'm Anusree Anilkumar</h3>
+ <figure>
+  <figcaption>
+    I'm a <strong>Full Stack Developer</strong>, exploring the advanced <strong>MERN stack</strong> 
+    along with Next.js & TypeScript.
+  </figcaption>
+</figure>
+ <blockquote>
+  I'm a <strong>Full Stack Developer</strong>, learning advanced MERN stack technologies 
+  like React, Redux, Express, MongoDB, Jest, with a touch of Next.js & TypeScript.
+</blockquote>
  <samp>I'm a <strong>Full Stack Developer</strong>, learning advanced <strong>MERN stack</strong>, <br> including  React, Redux, Express, MongoDB, Jest with a  <br>sprinkle of Next.js and TypeScript.
   <br>
- I also share what I learn on my blog <a href='https://anusree6154s.github.io/documentation/'>Bits & Bytes</a></samp>
+ I also share what I learn on my blog <a href='https://anusree6154s.github.io/documentation/'>Bits & Bytes</a> 
+  <br/>
+  and showcase my work on my <a href="https://anusreeanilkumar.vercel.app" target="_blank">portfolio website</a>.
+</samp>
 
  <br>
 <br>

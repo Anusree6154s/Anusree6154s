@@ -2,9 +2,7 @@
 <h3>👋 Hi! I'm Anusree Anilkumar</h3>
  <samp>I'm a <strong>Full Stack Developer</strong>, learning advanced <strong>MERN stack</strong>, <br> including  React, Redux, Express, MongoDB, Jest with a  <br>sprinkle of Next.js and TypeScript.
   <br>
- I also share what I learn on my blog <a href='https://anusree6154s.github.io/documentation/'>Bits & Bytes</a> 
-  <br/>
-  and showcase my work on my <a href="https://anusreeanilkumar.vercel.app" target="_blank">portfolio website</a>.
+Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_blank">portfolio website</a>.
 </samp>
 
  <br>

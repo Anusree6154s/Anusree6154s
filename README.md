@@ -97,7 +97,7 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
           <td>MERN, MUI, Redux Toolkit, Stripe, Passport.js, Jest</td>
           <td>
             <a
-              href="https://ebazar-fullstack.vercel.app/home"
+              href="https://ebazar-beta.vercel.app/"
               target="_blank"
               rel="noreferrer"
               >view</a
@@ -147,7 +147,7 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/xflix-frontend"
+              href="https://github.com/Anusree6154s/crio-xflix-frontend"
               target="_blank"
               rel="noreferrer"
               >code</a
@@ -168,7 +168,7 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/qkart-backend"
+              href="http://github.com/Anusree6154s/crio-qkart-2"
               target="_blank"
               rel="noreferrer"
               >code</a
@@ -189,7 +189,7 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/qkart-frontend"
+              href="https://github.com/Anusree6154s/crio-qkart-1"
               target="_blank"
               rel="noreferrer"
               >code</a
@@ -208,7 +208,7 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
           </td>
           <td>
             <a
-              href="https://github.com/Anusree6154s/qtify-frontend"
+              href="https://github.com/Anusree6154s/crio-qtify-frontend"
               target="_blank"
               rel="noreferrer"
               >code</a

@@ -228,7 +228,7 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
 <br>
 <br>
 <h3>Contact Me</h3>
- <a href='https://www.linkedin.com/in/anusreeanilkumar1/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/user-attachments/assets/1b730941-7e19-4294-8135-aada03c730d7'/> </a>
+ <a href='https://www.linkedin.com/in/anusreeanilkumar1/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
 &nbsp;
   <a href='mailto:anilkumar113anusree@gmail.com' target='_blank' rel="noreferrer" ><img width='20px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
 &nbsp;

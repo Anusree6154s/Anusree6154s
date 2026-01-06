@@ -221,14 +221,14 @@ Checkout my work on my <a href="https://anusreeanilkumar.vercel.app" target="_bl
 <br>
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Anusree6154s&hide=stars&show_icons=true' height='150'/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact' height='150'/>
+<img src='https://github-readme-stats-ten-lilac-87.vercel.app/api?username=Anusree6154s&hide=stars&show_icons=true' height='150'/>
+<img src='https://github-readme-stats-ten-lilac-87.vercel.app/api/top-langs/?username=Anusree6154s&layout=compact' height='150'/>
 
 
 <br>
 <br>
 <h3>Contact Me</h3>
- <a href='https://www.linkedin.com/in/anusreeanilkumar1/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'/> </a>
+ <a href='https://www.linkedin.com/in/anusreeanilkumar1/' target='_blank' rel="noreferrer" ><img  width='20px' src='https://github.com/user-attachments/assets/1b730941-7e19-4294-8135-aada03c730d7'/> </a>
 &nbsp;
   <a href='mailto:anilkumar113anusree@gmail.com' target='_blank' rel="noreferrer" ><img width='20px' src='https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg'/> </a>
 &nbsp;
